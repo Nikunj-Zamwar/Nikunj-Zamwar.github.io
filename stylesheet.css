@@ -2,16 +2,12 @@
     background-color: burlywood;
     padding: 20px;
     color: rgb(77, 75, 75);
-    text-align: center;
-}
-
-.content {
-    border: black;
-    border-style: solid;
-    border-width: 2px;
-    padding: 40px;
 }
 
 p {
     padding: 10px;
+}
+
+h3 {
+    text-align: center;
 }
